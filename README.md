@@ -1,1 +1,1 @@
-# multimodal_video_summarization_ts
+# Multimodal video summarization with timestamps
