@@ -1,0 +1,13 @@
+numpy
+opencv-python==4.7.0.72
+
+torch==2.0.1
+torchvision==0.15.2
+transformers==4.29.1
+openai-whisper
+
+moviepy
+pydub
+soundfile
+
+black

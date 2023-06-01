@@ -1,0 +1,2 @@
+format:
+	@venv/bin/black .
